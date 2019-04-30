@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/Apu5.gif",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/Barney1.gif",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/ChiefWiggum1.gif",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/ComicBookGuy2.gif",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/GroundskeeperWilly1.gif",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/KentBrockman3.gif",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/Krusty1.gif",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/Lovejoy1.gif",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/Milhouse7.gif",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/MoeSzyslak3.gif",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/MrBurns3.gif",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/NedFlanders1.gif",
+    "clicked": false
+  }
+]
